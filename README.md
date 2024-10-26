@@ -86,4 +86,4 @@
 </ul>
 
 <h2 id="author">Author</h2>
-<p>Developed by <a href="your-github-profile-url">Your Name</a>.</p>
+<p>Developed by <a href="your-github-profile-url">Tejas Borle</a>.</p>
